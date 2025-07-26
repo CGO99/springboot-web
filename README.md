@@ -1,8 +1,7 @@
 # Spring Boot Web Application - Learning Summary
 
-## What I Learned
+This project follows a step-by-step learning path for building a web application using Spring Boot and Thymeleaf. It covers key topics such as MVC architecture, controllers, REST APIs, DTOs, configuration using .properties files, and deployment with Maven. The project also demonstrates how to handle form data, URL parameters, and JSON requests, while making use of annotations like @RequestMapping, @PathVariable, @ModelAttribute, and more.
 
-This project taught me how to build web applications using Spring Boot, following a complete tutorial series from basics to advanced concepts.
 
 ### Core Spring Boot Concepts
 - **Project Creation**: How to create and structure a Spring Boot web application
